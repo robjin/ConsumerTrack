@@ -21,3 +21,7 @@ sudo apt-get install nginx
 ```
 sudo service nginx start
 ```
+
+### Step 5: Create AMI of nginx instance
+
+### Step 6: Use Cloudformation template (lampstack.json) to build autoscaling EC2 instance behind application multi-az load balancer
