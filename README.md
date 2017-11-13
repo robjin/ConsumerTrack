@@ -14,7 +14,7 @@ sudo apt-get update
 
 ### Step 3: Install nginx
 ```
-Run sudo apt-get install nginx
+sudo apt-get install nginx
 ```
 
 ### Step 4: Start nginx service
